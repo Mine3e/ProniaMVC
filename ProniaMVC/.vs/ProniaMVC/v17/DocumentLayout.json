@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ProniaMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68737B81-3B96-4259-BBE8-ED360EB23AC8}|ProniaMVC.csproj|c:\\users\\hp\\source\\repos\\proniamvc\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68737B81-3B96-4259-BBE8-ED360EB23AC8}|ProniaMVC.csproj|solutionrelative:areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B83AF53-8482-4A77-A252-9AE69C558D8A}|..\\Business\\Business.csproj|c:\\users\\hp\\source\\repos\\business\\services\\concretes\\sliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ProniaMVC\\Areas\\Admin\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\Admin\\Controllers\\SliderController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:45:28.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SliderService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeDocumentMoniker": "..\\Business\\Services\\Concretes\\SliderService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\Business\\Services\\Concretes\\SliderService.cs",
+              "RelativeToolTip": "..\\Business\\Services\\Concretes\\SliderService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:43:39.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
